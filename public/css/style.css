@@ -1,0 +1,17 @@
+body {
+    margin-top: 10%;
+    background-color:  rgb(29, 26, 26);
+
+}
+
+a {
+    display: flex;
+    color: rgb(186, 186, 40);
+    margin-bottom: .6rem;
+    justify-content: center;
+}
+
+a::before {
+        content: '👨‍💻';
+
+}
